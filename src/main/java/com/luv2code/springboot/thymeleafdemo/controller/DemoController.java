@@ -14,7 +14,7 @@ public class DemoController {
 		
 		theModel.addAttribute("theDate", new java.util.Date());
 		
-		return "HELLO NAEEM";
+		return "GUTEN MORGEN HERR SIR NAEEM ";
 	}
 }
 
